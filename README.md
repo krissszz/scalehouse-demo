@@ -56,6 +56,14 @@ This repository demonstrates:
 
 The following are **intentionally excluded**:
 
+
+
+Production System Features (Not Included in Demo)
+
+* Transloading operations
+* Multi-trailer weight distribution
+* Weight factor computation per planter
+* Complex logistics workflows
 * Internal company APIs
 * Authentication systems used in production
 * Proprietary business rules and formulas
